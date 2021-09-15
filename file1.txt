@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 123 5
-=======
 123 7
->>>>>>> 5d64cd868c52b8bfc946dc9c970ab3d44b22ebbf
 commit test
 456
 789
